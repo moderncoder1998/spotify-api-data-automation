@@ -138,6 +138,6 @@ This project demonstrates practical skills in:
 
 ## 👨‍💻 Author
 
-**Rohit**
+**Vel**
 
 Data Automation QA Engineer | Python | Pandas | API Testing | SQL
